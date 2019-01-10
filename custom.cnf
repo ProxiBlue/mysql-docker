@@ -1,9 +1,6 @@
 [mysqld]
 net_write_timeout = 600
 net_read_timeout = 600
-innodb_thread_concurrency = 2 * 2
-innodb_flush_log_at_trx_commit = 2
-thread_concurrency = 3
 thread_cache_size = 32
 table_cache = 1024
 query_cache_size = 64M
