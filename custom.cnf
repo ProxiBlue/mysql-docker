@@ -2,4 +2,4 @@
 net_write_timeout = 600
 net_read_timeout = 600
 max_allowed_packet = 128M
-bind_adress = 0.0.0.0
+bind-adress = 0.0.0.0
